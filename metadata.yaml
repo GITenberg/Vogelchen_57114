@@ -1,0 +1,27 @@
+_repo: Vogelchen_57114
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zweig, Friderike Maria Burger Winternitz
+    aliases:
+    - Zweig, Friederike Maria
+    - Zweig-Winternitz, F. M. (Friderike Maria)
+    - Zweig, Friderike M. (Friderike Maria)
+    - Winternitz, Friderike Maria
+    birthdate: 1882
+    deathdate: 1971
+    gutenberg_agent_id: '44333'
+    url: http://www.gutenberg.org/2009/agents/44333
+description: ''
+gutenberg_issued: '2018-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57114'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vögelchen
+url: http://www.gutenberg.org/ebooks/57114
