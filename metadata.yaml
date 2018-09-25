@@ -1,5 +1,8 @@
 _repo: Vogelchen_57114
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57114-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Zweig, Friderike Maria Burger Winternitz
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '44333'
     url: http://www.gutenberg.org/2009/agents/44333
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57114#Vogelchen
 gutenberg_issued: '2018-05-08'
 gutenberg_type: Text
 identifiers:
